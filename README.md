@@ -1,6 +1,6 @@
 prerequisite -Java 8 -Maven 3.5.2
 
-clone project by doing following command. git clone 
+clone project by doing following command. git clone https://github.com/snakrani/spring-boot-file-storage.git
 
 Do mvn install to build application run [ mvn spring-boot:run ] to start application
 
